@@ -13,11 +13,4 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - APV:
-      - Overzicht: apv/index.md
-      - Roleplay-kwaliteit en gedrag: apv/roleplay-kwaliteit.md
-      - Geweld, voertuigen en escalatie: apv/geweld-voertuigen.md
-      - Criminele roleplay en misbruik: apv/criminaliteit.md
-      - Communicatie en informatiegebruik: apv/communicatie.md
-      - Locaties en veiligheidszones: apv/locaties.md
-      - Serverintegriteit en handhaving: apv/integriteit.md
+  - APV: apv.md
