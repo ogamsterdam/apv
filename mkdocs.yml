@@ -1,0 +1,8 @@
+site_name: Wet- en Regelgeving OG Amsterdam
+site_url: https://ogamsterdam.github.io/apv/
+theme:
+  name: material
+  language: nl
+
+nav:
+  - Home: index.md
