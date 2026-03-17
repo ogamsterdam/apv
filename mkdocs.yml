@@ -1,8 +1,23 @@
-site_name: Wet- en Regelgeving OG Amsterdam
+site_name: OG Amsterdam APV
 site_url: https://ogamsterdam.github.io/apv/
+
 theme:
   name: material
   language: nl
 
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
 nav:
-  - APV: index.md
+  - Home: index.md
+  - APV:
+      - Overzicht: apv/index.md
+      - Roleplay-kwaliteit en gedrag: apv/roleplay-kwaliteit.md
+      - Geweld, voertuigen en escalatie: apv/geweld-voertuigen.md
+      - Criminele roleplay en misbruik: apv/criminaliteit.md
+      - Communicatie en informatiegebruik: apv/communicatie.md
+      - Locaties en veiligheidszones: apv/locaties.md
+      - Serverintegriteit en handhaving: apv/integriteit.md
