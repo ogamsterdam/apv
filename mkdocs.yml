@@ -5,5 +5,4 @@ theme:
   language: nl
 
 nav:
-  - Home: index.md
-  - APV: apv/index.md
+  - APV: index.md
